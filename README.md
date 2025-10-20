@@ -46,9 +46,12 @@ Hi there! 👋 I’m **Anish G Prabhu**, an aspiring **Cybersecurity & Backend D
 
 ### 📊 GitHub Stats & Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashpb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFBF&icon_color=00FFFF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishprabhu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFBF" height="165" />
+  <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-75%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-60%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-40%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
+
 
 ---
 
