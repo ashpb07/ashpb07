@@ -26,7 +26,7 @@ Hi there! 👋 I’m **Anish G Prabhu**, an aspiring **Cybersecurity & Backend D
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,reactnative,django,python,html,css,js,java,postgresql,mongodb,nginx,redis,docker,kubernetes,git,linux,tailwind,figma,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,reactnative,django,python,html,css,js,java,postgresql,mongodb,nginx,redis,docker,kubernetes,git,linux,tailwind,figma,tensorflow,shell" />
 </p>
 
 
