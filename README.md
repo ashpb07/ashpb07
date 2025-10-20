@@ -43,9 +43,6 @@ Hi there! 👋 I’m **Anish G Prabhu**, an aspiring **Cybersecurity & Backend D
 - 🧭 Cyber Threat Intelligence
 
 ---
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/44189/screenshots/13703982/media/5f3dbf9edc2bb0d91a71d69ad2f58b07.gif" width="250"/>
-</p>
 
 ### 📊 GitHub Stats & Analytics
 <p align="center">
