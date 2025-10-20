@@ -20,7 +20,6 @@ Hi there! 👋 I’m **Anish G Prabhu**, an aspiring **Cybersecurity & Backend D
 - 🚀 Passionate about **problem-solving, automation, and making systems secure**  
 - 📫 Connect with me: **[anishprabhu783@gmail.com](mailto:anishprabhu783@gmail.com)**  
 
-💡 Fun fact: I love turning complex problems into elegant, working solutions!
 
 
 ---
@@ -78,7 +77,7 @@ Hi there! 👋 I’m **Anish G Prabhu**, an aspiring **Cybersecurity & Backend D
 
 ---
 
-### 💡 Fun Quote
+### 💡 
 > “Security isn’t just a skill, it’s a mindset — and every byte counts.” 🧠💻
 
 ---
