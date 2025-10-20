@@ -5,6 +5,10 @@
 </h1>
 
 ---
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" alt="Cyber Banner" width="100%" height="250"/>
+</p>
+
 
 ### 🧠 About Me
 - 🔭 Working on **Django REST APIs**  
@@ -73,4 +77,4 @@
 
 ---
 
-<p align="center">⭐️ Crafted with Passion by <a href="https://github.com/anishprabhu">Anish G Prabhu</a> ⚡</p>
+
