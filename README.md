@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" alt="Cyber Banner" width="100%" height="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Cyber Banner" width="100%" height="250"/>
 </p>
 
 
