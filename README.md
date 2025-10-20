@@ -11,11 +11,17 @@
 
 
 ### 🧠 About Me
-- 🔭 Working on **Django REST APIs**  
-- 🌱 Learning **Django REST Framework** & **Network Security**  
-- 👯 Open to collaborate on **Backend Development & Cybersecurity Projects**  
-- 💬 Ask me about **Python, Networking, Security, Docker, Django**  
-- 📫 Reach me: **anishprabhu783@gmail.com**
+Hi there! 👋 I’m **Anish G Prabhu**, an aspiring **Cybersecurity & Backend Developer**.  
+
+- 🔭 Currently building **Django REST APIs** to create secure and scalable web applications  
+- 🌱 Continuously learning **Django REST Framework**, **Network Security**, and **Cloud/DevOps tools**  
+- 👯 Looking to collaborate on exciting **Backend Development & Cybersecurity Projects**  
+- 💬 Ask me about **Python, Networking, Security, Docker, Django, and System Design**  
+- 🚀 Passionate about **problem-solving, automation, and making systems secure**  
+- 📫 Connect with me: **[anishprabhu783@gmail.com](mailto:anishprabhu783@gmail.com)**  
+
+💡 Fun fact: I love turning complex problems into elegant, working solutions!
+
 
 ---
 
