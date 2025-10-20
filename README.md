@@ -20,9 +20,78 @@
 ---
 
 ### ⚙️ Tech Stack
+<!-- Dynamic skill grid for README -->
+<style>
+  .skill-grid { display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:center; padding:8px 0; }
+  .skill { width:56px; height:56px; display:inline-flex; justify-content:center; align-items:center; border-radius:10px;
+           transition:transform .18s ease, box-shadow .18s ease; background:linear-gradient(180deg, rgba(255,255,255,0.03), rgba(0,0,0,0.02)); }
+  .skill img { width:42px; height:42px; pointer-events:none; }
+  .skill:hover { transform:translateY(-6px) scale(1.08); box-shadow: 0 10px 18px rgba(2,6,23,0.12); }
+  .tooltip { font-size:12px; color:#ddd; margin-top:6px; text-align:center; opacity:0.9; }
+  /* gentle float animation */
+  @keyframes floaty { 0% { transform: translateY(0px);} 50% { transform: translateY(-6px);} 100% { transform: translateY(0px);} }
+  .skill.animated { animation: floaty 4.5s ease-in-out infinite; }
+  /* small responsive tweak */
+  @media (max-width:520px){ .skill{ width:48px; height:48px } .skill img{ width:34px; height:34px } }
+</style>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,django,react,html,css,js,java,postgresql,mongodb,nginx,redis,docker,kubernetes,git,linux,matlab,figma,tailwind,bootstrap,oracle,photoshop,tensorflow" />
+  <div class="skill-grid">
+    <!-- wrap each icon with a link (change href to your favorite docs or repo) -->
+    <a class="skill animated" href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C">
+      <img src="https://skillicons.dev/icons?i=c" alt="C" />
+    </a>
+
+    <a class="skill animated" href="https://isocpp.org/" target="_blank" title="C++">
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+    </a>
+
+    <a class="skill animated" href="https://www.python.org/" target="_blank" title="Python">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    </a>
+
+    <a class="skill animated" href="https://www.djangoproject.com/" target="_blank" title="Django">
+      <img src="https://skillicons.dev/icons?i=django" alt="Django" />
+    </a>
+
+    <a class="skill animated" href="https://react.dev/" target="_blank" title="React">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" />
+    </a>
+
+    <a class="skill animated" href="https://reactnative.dev/" target="_blank" title="React Native">
+      <img src="https://skillicons.dev/icons?i=reactnative" alt="React Native" />
+    </a>
+
+    <a class="skill animated" href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI">
+      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
+    </a>
+
+    <a class="skill animated" href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
+      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
+    </a>
+
+    <!-- continue your stack -->
+    <a class="skill" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+    <a class="skill" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+    <a class="skill" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+    <a class="skill" href="https://www.java.com/" target="_blank" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+    <a class="skill" href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" /></a>
+    <a class="skill" href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+    <a class="skill" href="https://www.nginx.com/" target="_blank" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
+    <a class="skill" href="https://redis.io/" target="_blank" title="Redis"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
+    <a class="skill" href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+    <a class="skill" href="https://kubernetes.io/" target="_blank" title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
+    <a class="skill" href="https://git-scm.com/" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+    <a class="skill" href="https://www.kernel.org/" target="_blank" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+    <a class="skill" href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB"><img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" /></a>
+    <a class="skill" href="https://www.figma.com/" target="_blank" title="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+    <a class="skill" href="https://tailwindcss.com/" target="_blank" title="Tailwind"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+    <a class="skill" href="https://www.oracle.com/" target="_blank" title="Oracle"><img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" /></a>
+    <a class="skill" href="https://www.adobe.com/products/photoshop.html" target="_blank" title="Photoshop"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" /></a>
+    <a class="skill" href="https://www.tensorflow.org/" target="_blank" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>
+  </div>
 </p>
+
 
 ---
 
