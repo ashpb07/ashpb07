@@ -61,7 +61,7 @@ Hi there! 👋 I’m **Anish G Prabhu**, an aspiring **Cybersecurity & Backend D
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashpb07&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashpb07&show_icons=true&theme=merko&count_private=true" alt="GitHub Stats"/>
 </p>
 
 
