@@ -56,13 +56,14 @@ Hi there! 👋 I’m **Anish G Prabhu**, an aspiring **Cybersecurity & Backend D
 ---
 
 ### 🧬 Contribution Streak
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=anishprabhu&theme=radical&hide_border=true&background=0D1117&ring=00FFBF&fire=00FFFF&currStreakLabel=00FFBF" />
-</p>
+</p> -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashpb07&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashpb07&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
 </p>
+
 
 
 ---
