@@ -11,15 +11,24 @@
 
 
 ### 🧠 About Me
-Hi there! 👋 I’m **Anish G Prabhu**, an aspiring **Cybersecurity & Backend Developer**.  
+``` text
+#include <iostream>
 
-- 🔭 Currently building **Django REST APIs** to create secure and scalable web applications  
-- 🌱 Continuously learning **Django REST Framework**, **Network Security**, and **Cloud/DevOps tools**  
-- 👯 Looking to collaborate on exciting **Backend Development & Cybersecurity Projects**  
-- 💬 Ask me about **Python, Networking, Security, Docker, Django, and System Design**  
-- 🚀 Passionate about **problem-solving, automation, and making systems secure**  
-- 📫 Connect with me: **[anishprabhu783@gmail.com](mailto:anishprabhu783@gmail.com)**  
+void showProfile() {
+    std::cout << "\nHi there! 👋 I’m Anish G Prabhu, an aspiring Cybersecurity & Backend Developer.\n\n";
+    std::cout << "🔭 Currently building Django REST APIs to create secure and scalable web applications\n";
+    std::cout << "🌱 Continuously learning Django REST Framework, Network Security, and Cloud/DevOps tools\n";
+    std::cout << "👯 Looking to collaborate on exciting Backend Development & Cybersecurity Projects\n";
+    std::cout << "💬 Ask me about Python, Networking, Security, Docker, Django, and System Design\n";
+    std::cout << "🚀 Passionate about problem-solving, automation, and making systems secure\n";
+    std::cout << "📫 Connect with me: anishprabhu783@gmail.com\n";
+}
 
+int main() {
+    showProfile();
+    return 0;
+}
+```
 
 
 ---
@@ -30,17 +39,43 @@ Hi there! 👋 I’m **Anish G Prabhu**, an aspiring **Cybersecurity & Backend D
 </p>
 
 
+```text
+echo " _____      _     ____  _                    ____          _        ____                       _   ";
+echo "| ____|__ _| |_  / ___|| | ___  ___ _ __    / ___|___   __| | ___  |  _ \ ___ _ __   ___  __ _| |_ ";
+echo "|  _| / _` | __| \___ \| |/ _ \/ _ \ '_ \  | |   / _ \ / _` |/ _ \ | |_) / _ \ '_ \ / _ \/ _` | __|";
+echo "| |__| (_| | |_   ___) | |  __/  __/ |_) | | |__| (_) | (_| |  __/ |  _ <  __/ |_) |  __/ (_| | |_ ";
+echo "|_____\__,_|\__| |____/|_|\___|\___| .__/   \____\___/ \__,_|\___| |_| \_\___| .__/ \___|\__,_|\__|";
+echo "                                   |_|                                       |_|                   ";
+```
+
 
 
 
 ---
 
 ### 🔒 Cybersecurity & Networking Focus
-- 🧩 Network Defense & Intrusion Prevention  
-- 🕵️ Ethical Hacking & Penetration Testing  
-- 🔐 Secure API & Backend Development  
-- 🧠 Linux Hardening & Shell Scripting  
-- 🧭 Cyber Threat Intelligence
+``` text
+class CyberFocus:
+
+    def __init__(self):
+        self.focus_areas = [
+            "🧩 Network Defense & Intrusion Prevention",
+            "🕵️ Ethical Hacking & Penetration Testing",
+            "🔐 Secure API & Backend Development",
+            "🧠 Linux Hardening & Shell Scripting",
+            "🧭 Cyber Threat Intelligence"
+        ]
+
+    def display(self):
+        for item in self.focus_areas:
+            print(f">> {item}")
+
+
+if __name__ == "__main__":
+    profile = CyberFocus()
+    profile.display()
+
+```
 
 ---
 
