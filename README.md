@@ -53,39 +53,34 @@ echo "                                   |_|                                    
 ---
 
 ### 🔒 Cybersecurity & Networking Focus
-``` text
-class CyberFocus:
 
-    def __init__(self):
-        self.focus_areas = [
-            "🧩 Network Defense & Intrusion Prevention",
-            "🕵️ Ethical Hacking & Penetration Testing",
-            "🔐 Secure API & Backend Development",
-            "🧠 Linux Hardening & Shell Scripting",
-            "🧭 Cyber Threat Intelligence"
-        ]
+🌐 Networking & security fundamentals
 
-    def display(self):
-        for item in self.focus_areas:
-            print(f">> {item}")
+🐧 Linux & Kali Linux hands-on experience
 
+🛡️ Ethical hacking & common web vulnerabilities
 
-if __name__ == "__main__":
-    profile = CyberFocus()
-    profile.display()
+🐍 Python & 🖥️ Bash scripting for security tasks
 
-```
+🌍 Web application security basics (SQLi, XSS)
+
+🚀 Passionate about real-world attack & defense
 
 ---
 
-### 📊 GitHub Stats & Analytics
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-70%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-10%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-15%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-5%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+🐍 Backend development using Python
 
+🚀 Experience with Django, Django REST Framework, FastAPI, and Flask
+
+🔐 Building secure, scalable REST APIs
+
+🗄️ Databases: PostgreSQL, SQLite, MongoDB, and Redis
+
+🧠 Using Redis for caching and performance optimization
+
+🌐 Working with JavaScript for API integration and backend logic
+
+🔄 API testing & integration using Postman
 
 ---
 
