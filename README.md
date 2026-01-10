@@ -57,6 +57,7 @@ Hi there! 👋 I’m Anish G Prabhu, an aspiring Cybersecurity and Backend Devel
 
 🔄 API testing & integration using Postman
 
+---
 ### ⚙️ Tech Stack
 🌐 Web Development
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,htmx,django,redis,sqlite,postgresql,mongodb,git" /> </p>
