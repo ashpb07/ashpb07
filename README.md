@@ -57,15 +57,17 @@ Hi there! 👋 I’m Anish G Prabhu, an aspiring Cybersecurity and Backend Devel
 
 ### ⚙️ Tech Stack
 🌐 Web Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,htmx,django,fastapi,flask,nginx,redis,sqlite,postgresql,mongodb,postman" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,htmx,django,nginx,redis,sqlite,postgresql,mongodb,postman" /> </p>
 🔐 Cybersecurity
-<p align="center"> <img src="https://skillicons.dev/icons?i=kali,linux,bash,python" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,arch" /> </p>
+🔐 Cybersecurity
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,fastapi,flask" /> </p>
 ⚙️ DevOps & Cloud
 <p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,nginx,linux" /> </p>
-🤖 AI / Machine Learning
-<p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,python" /> </p>
 🎨 Tools & Design
 <p align="center"> <img src="https://skillicons.dev/icons?i=figma" /> </p>
+🤖 Other languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cmake" /> </p>
 
 
 ```text
