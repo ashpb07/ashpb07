@@ -11,27 +11,19 @@
 
 
 ### 🧠 About Me
-``` text
-#include <iostream>
+Hi there! 👋 I’m Anish G Prabhu, an aspiring Cybersecurity and Backend Developer.
 
-void showProfile() {
-    std::cout << "\nHi there! 👋 I’m Anish G Prabhu, an aspiring Cybersecurity & Backend Developer.\n\n";
-    std::cout << "🔭 Currently building Django REST APIs to create secure and scalable web applications\n";
-    std::cout << "🌱 Continuously learning Django REST Framework, Network Security, and Cloud/DevOps tools\n";
-    std::cout << "👯 Looking to collaborate on exciting Backend Development & Cybersecurity Projects\n";
-    std::cout << "💬 Ask me about Python, Networking, Security, Docker, Django, and System Design\n";
-    std::cout << "🚀 Passionate about problem-solving, automation, and making systems secure\n";
-    std::cout << "📫 Connect with me: anishprabhu783@gmail.com\n";
-}
+🔭 Currently building Django REST APIs to create secure and scalable web applications.
 
-int main() {
-    showProfile();
-    return 0;
-}
-```
+🌱 Continuously learning Django REST Framework, Network Security, and Cloud/DevOps tools.
 
+👯 Looking to collaborate on exciting Backend Development and Cybersecurity projects.
 
----
+💬 Ask me about Python, Networking, Security, Docker, Django, and System Design.
+
+🚀 Passionate about problem-solving, automation, and building secure systems.
+
+📫 Connect with me at anishprabhu783@gmail.com
 
 ### ⚙️ Tech Stack
 <p align="center">
