@@ -22,8 +22,8 @@ Hi there! 👋 I’m Anish G Prabhu, an aspiring Cybersecurity and Backend Devel
 💬 Ask me about Python, Networking, Security, Docker, Django, and System Design.
 
 🚀 Passionate about problem-solving, automation, and building secure systems.
-
 📫 Connect with me at anishprabhu783@gmail.com
+
 ---
 ### 🔒 Cybersecurity & Networking Focus
 
@@ -38,9 +38,11 @@ Hi there! 👋 I’m Anish G Prabhu, an aspiring Cybersecurity and Backend Devel
 🌍 Web application security basics (SQLi, XSS)
 
 🚀 Passionate about real-world attack & defense
----
-⚙️ Backend Development
 
+---
+
+⚙️ Backend Development
+---
 🐍 Backend development using Python
 
 🚀 Experience with Django, Django REST Framework, FastAPI, and Flask
@@ -57,31 +59,17 @@ Hi there! 👋 I’m Anish G Prabhu, an aspiring Cybersecurity and Backend Devel
 
 ### ⚙️ Tech Stack
 🌐 Web Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,htmx,django,nginx,redis,sqlite,postgresql,mongodb,postman" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,htmx,django,redis,sqlite,postgresql,mongodb,git" /> </p>
 🔐 Cybersecurity
-<p align="center"> <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,arch" /> </p>
-🔐 Cybersecurity
-<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,fastapi,flask" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,arch,redhat" /> </p>
+🚀 App Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,fastapi,flask,azure" /> </p>
 ⚙️ DevOps & Cloud
-<p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,nginx,linux" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux" /> </p>
 🎨 Tools & Design
-<p align="center"> <img src="https://skillicons.dev/icons?i=figma" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=figma,postman" /> </p>
 🤖 Other languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cmake" /> </p>
-
-
-```text
-echo " _____      _     ____  _                    ____          _        ____                       _   ";
-echo "| ____|__ _| |_  / ___|| | ___  ___ _ __    / ___|___   __| | ___  |  _ \ ___ _ __   ___  __ _| |_ ";
-echo "|  _| / _` | __| \___ \| |/ _ \/ _ \ '_ \  | |   / _ \ / _` |/ _ \ | |_) / _ \ '_ \ / _ \/ _` | __|";
-echo "| |__| (_| | |_   ___) | |  __/  __/ |_) | | |__| (_) | (_| |  __/ |  _ <  __/ |_) |  __/ (_| | |_ ";
-echo "|_____\__,_|\__| |____/|_|\___|\___| .__/   \____\___/ \__,_|\___| |_| \_\___| .__/ \___|\__,_|\__|";
-echo "                                   |_|                                       |_|                   ";
-```
-
-
-
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cmake,java" /> </p>
 ---
 
 
