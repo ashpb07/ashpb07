@@ -24,6 +24,36 @@ Hi there! 👋 I’m Anish G Prabhu, an aspiring Cybersecurity and Backend Devel
 🚀 Passionate about problem-solving, automation, and building secure systems.
 
 📫 Connect with me at anishprabhu783@gmail.com
+---
+### 🔒 Cybersecurity & Networking Focus
+
+🌐 Networking & security fundamentals
+
+🐧 Linux & Kali Linux hands-on experience
+
+🛡️ Ethical hacking & common web vulnerabilities
+
+🐍 Python & 🖥️ Bash scripting for security tasks
+
+🌍 Web application security basics (SQLi, XSS)
+
+🚀 Passionate about real-world attack & defense
+---
+⚙️ Backend Development
+
+🐍 Backend development using Python
+
+🚀 Experience with Django, Django REST Framework, FastAPI, and Flask
+
+🔐 Building secure, scalable REST APIs
+
+🗄️ Databases: PostgreSQL, SQLite, MongoDB, and Redis
+
+🧠 Using Redis for caching and performance optimization
+
+🌐 Working with JavaScript for API integration and backend logic
+
+🔄 API testing & integration using Postman
 
 ### ⚙️ Tech Stack
 🌐 Web Development
@@ -51,47 +81,6 @@ echo "                                   |_|                                    
 
 
 ---
-
-### 🔒 Cybersecurity & Networking Focus
-
-🌐 Networking & security fundamentals
-
-🐧 Linux & Kali Linux hands-on experience
-
-🛡️ Ethical hacking & common web vulnerabilities
-
-🐍 Python & 🖥️ Bash scripting for security tasks
-
-🌍 Web application security basics (SQLi, XSS)
-
-🚀 Passionate about real-world attack & defense
-
----
-
-🐍 Backend development using Python
-
-🚀 Experience with Django, Django REST Framework, FastAPI, and Flask
-
-🔐 Building secure, scalable REST APIs
-
-🗄️ Databases: PostgreSQL, SQLite, MongoDB, and Redis
-
-🧠 Using Redis for caching and performance optimization
-
-🌐 Working with JavaScript for API integration and backend logic
-
-🔄 API testing & integration using Postman
-
----
-
-### 🧬 Contribution Streak
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anishprabhu&theme=radical&hide_border=true&background=0D1117&ring=00FFBF&fire=00FFFF&currStreakLabel=00FFBF" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashpb07&show_icons=true&theme=merko&count_private=true" alt="GitHub Stats"/>
-</p>
 
 
 
