@@ -26,9 +26,16 @@ Hi there! 👋 I’m Anish G Prabhu, an aspiring Cybersecurity and Backend Devel
 📫 Connect with me at anishprabhu783@gmail.com
 
 ### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,htmx,postman,sqlite,django,python,html,mint,kali,css,js,java,postgresql,mongodb,nginx,redis,docker,kubernetes,git,linux,tailwind,figma,tensorflow,bash" />
-</p>
+🌐 Web Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,htmx,django,fastapi,flask,nginx,redis,sqlite,postgresql,mongodb,postman" /> </p>
+🔐 Cybersecurity
+<p align="center"> <img src="https://skillicons.dev/icons?i=kali,linux,bash,python" /> </p>
+⚙️ DevOps & Cloud
+<p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,nginx,linux" /> </p>
+🤖 AI / Machine Learning
+<p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,python" /> </p>
+🎨 Tools & Design
+<p align="center"> <img src="https://skillicons.dev/icons?i=figma" /> </p>
 
 
 ```text
