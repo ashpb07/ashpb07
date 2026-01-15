@@ -11,14 +11,14 @@
 
 
 ### 🧠 About Me
-I am a Backend Developer with a strong interest in Cybersecurity and DevOps, focused on building secure, scalable systems while understanding how applications behave in real-world, production environments.
+I’m Anish G Prabhu, a Backend Developer with a strong interest in DevOps and Cybersecurity.
+I focus on building secure, scalable backend systems, while learning how to deploy, automate, and protect them in real-world environments.
 
-💻 Backend Focus: Designing and developing robust, high-performance REST APIs using Python, Django, DRF, and FastAPI.
-⚙️ DevOps Focus: Containerizing services, automating workflows, and understanding deployment fundamentals with Docker and Linux.
-🛡️ Cybersecurity Focus: Applying secure coding practices, API security, and understanding common web vulnerabilities (SQLi, XSS).
-🌱 Currently Learning: Cloud & DevOps fundamentals, advanced backend architecture, and security best practices.
-📫 Reach me at: anishprabhu783@gmail.com
-
+💻 Backend: Designing REST APIs with Python, Django, and FastAPI
+⚙️ DevOps: Dockerized services, Linux-based workflows, deployment fundamentals
+🛡️ Security: Secure coding practices and common web vulnerabilities (SQLi, XSS)
+🌱 Currently Learning: Cloud platforms, system design, and backend scalability
+📫 Contact: anishprabhu783@gmail.com
 
 ---
 ### ⚙️ Tech Stack
