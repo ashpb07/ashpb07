@@ -11,51 +11,18 @@
 
 
 ### 🧠 About Me
-Hi there! 👋 I’m Anish G Prabhu, an aspiring Cybersecurity and Backend Developer.
+Hi! 👋 I’m **Anish G Prabhu**, a Cybersecurity-focused Backend Developer 🚀  
+I build **secure, scalable REST APIs** and enjoy working close to systems and security.
 
-🔭 Currently building Django REST APIs to create secure and scalable web applications.
+- 🛡️ Cybersecurity & networking fundamentals (Linux, Kali, Web Security)
+- ⚙️ Backend development with **Python, Django, DRF, FastAPI**
+- 🔐 API security & common web vulnerabilities (SQLi, XSS)
+- 🐍 Automation & scripting using **Python & Bash**
+- 🗄️ Databases: PostgreSQL, SQLite, MongoDB | Caching with Redis
+- 🐳 Docker, API testing & integration (Postman)
 
-🌱 Continuously learning Django REST Framework, Network Security, and Cloud/DevOps tools.
+📫 Reach me at **anishprabhu783@gmail.com**
 
-👯 Looking to collaborate on exciting Backend Development and Cybersecurity projects.
-
-💬 Ask me about Python, Networking, Security, Docker, Django, and System Design.
-
-🚀 Passionate about problem-solving, automation, and building secure systems.
-📫 Connect with me at anishprabhu783@gmail.com
-
----
-### 🔒 Cybersecurity & Networking Focus
-
-🌐 Networking & security fundamentals
-
-🐧 Linux & Kali Linux hands-on experience
-
-🛡️ Ethical hacking & common web vulnerabilities
-
-🐍 Python & 🖥️ Bash scripting for security tasks
-
-🌍 Web application security basics (SQLi, XSS)
-
-🚀 Passionate about real-world attack & defense
-
----
-
-⚙️ Backend Development
----
-🐍 Backend development using Python
-
-🚀 Experience with Django, Django REST Framework, FastAPI, and Flask
-
-🔐 Building secure, scalable REST APIs
-
-🗄️ Databases: PostgreSQL, SQLite, MongoDB, and Redis
-
-🧠 Using Redis for caching and performance optimization
-
-🌐 Working with JavaScript for API integration and backend logic
-
-🔄 API testing & integration using Postman
 
 ---
 ### ⚙️ Tech Stack
