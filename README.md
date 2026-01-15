@@ -27,18 +27,36 @@ I build **secure, scalable REST APIs** and enjoy working close to systems and se
 ---
 ### ⚙️ Tech Stack
 🌐 Web Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,htmx,django,redis,sqlite,postgresql,mongodb,git" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,htmx,django,fastapi,flask,redis,sqlite,postgresql,mongodb" />
+</p>
+
 🔐 Cybersecurity
-<p align="center"> <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,arch,redhat" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,bash,linux,redhat" />
+</p>
+
 🚀 App Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,fastapi,flask,azure" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
 ⚙️ DevOps & Cloud
-<p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,azure" />
+</p>
+
 🎨 Tools & Design
-<p align="center"> <img src="https://skillicons.dev/icons?i=figma,postman" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,postman,git,cmake" />
+</p>
+
 🤖 Other languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cmake,java" /> </p>
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+</p>
+
+
 
 
 
