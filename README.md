@@ -15,44 +15,44 @@
 ---
 
 
-### 🧠 About Me
-- 💻 Backend Developer focused on building secure, scalable REST APIs
-- ⚙️ Experience with Python, Django, DRF, and FastAPI
-- 🐳 DevOps fundamentals: Docker, Linux-based workflows, deployment basics
-- 🛡️ Security-first mindset: secure coding & common web vulnerabilities (SQLi, XSS)
-- 🗄️ Databases & caching: PostgreSQL, SQLite, MongoDB, Redis
-- 🛠️ Automation & tooling: Bash scripting, Git, Postman
-- 🌱 Currently learning cloud platforms, system design, and backend scalability
-- 📫 Contact: anishprabhu783@gmail.com
+###  About Me
+-  Backend Developer focused on building secure, scalable REST APIs
+-  Experience with Python, Django, DRF, and FastAPI
+-  DevOps fundamentals: Docker, Linux-based workflows, deployment basics
+-  Security-first mindset: secure coding & common web vulnerabilities (SQLi, XSS)
+-  Databases & caching: PostgreSQL, SQLite, MongoDB, Redis
+-  Automation & tooling: Bash scripting, Git, Postman
+-  Currently learning cloud platforms, system design, and backend scalability
+-  Contact: anishprabhu783@gmail.com
 
 ---
-### ⚙️ Tech Stack
-🌐 Web Development
+###  Tech Stack
+ Web Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,django,fastapi,flask,redis,postgresql,mongodb" />
 </p>
 
-🔐 Cybersecurity
+ Cybersecurity
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali,bash,linux,redhat" />
 </p>
 
-🚀 App Development
+ App Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
-⚙️ DevOps & Cloud
+ DevOps & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx" />
 </p>
 
-🎨 Tools & Design
+ Tools & Design
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,postman,git,cmake" />
 </p>
 
-🤖 Other languages
+ Other languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
 </p>
@@ -63,14 +63,14 @@
 
 ---
 
-### 🐍 Contribution Graph
+###  Contribution Graph
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 <p align="center">
   <a href="mailto:anishprabhu783@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
