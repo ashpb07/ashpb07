@@ -29,7 +29,7 @@
 ### ⚙️ Tech Stack
 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,htmx,django,fastapi,flask,redis,sqlite,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,django,fastapi,flask,redis,postgresql,mongodb" />
 </p>
 
 🔐 Cybersecurity
@@ -44,7 +44,7 @@
 
 ⚙️ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,azure" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx" />
 </p>
 
 🎨 Tools & Design
