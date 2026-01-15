@@ -70,8 +70,7 @@ I build **secure, scalable REST APIs** and enjoy working close to systems and se
 
 ---
 
-### 💡 
-> “Security isn’t just a skill, it’s a mindset — and every byte counts.” 🧠💻
+
 
 ---
 
