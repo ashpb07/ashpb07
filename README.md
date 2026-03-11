@@ -37,10 +37,7 @@
   <img src="https://skillicons.dev/icons?i=kali,bash,linux,redhat" />
 </p>
 
- App Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" />
-</p>
+
 
  DevOps & Cloud
 <p align="center">
