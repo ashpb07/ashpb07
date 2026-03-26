@@ -69,7 +69,7 @@
 
 ###  Connect with Me
 <p align="center">
-  <a href="mailto:anishprabhu783@gmail.com">
+  <a href="mailto:anishprabhu221@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/anishprabhu1/">
@@ -78,9 +78,7 @@
   <a href="https://github.com/ashpb07">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/715571117582188575">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+ 
 </p>
 
 
