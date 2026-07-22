@@ -6,12 +6,7 @@
 
 
 ---
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Cyber Banner" />
-</p>
-
-
+<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/782816ac-1f4c-4881-a26e-a5c68f18c104.gif" width="100%" alt="pixel-art-readme-gifs">
 ---
 
 
