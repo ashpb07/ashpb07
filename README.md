@@ -6,7 +6,9 @@
 
 
 ---
-<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/782816ac-1f4c-4881-a26e-a5c68f18c104.gif" width="100%" alt="pixel-art-readme-gifs">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFBF&center=true&vCenter=true&width=600&lines=Stay+Curious+%7C+Stay+Secure+%7C+Stay+Anonymous" />
+</p>
 ---
 
 
