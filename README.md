@@ -21,7 +21,7 @@
 -  Databases & caching: PostgreSQL, SQLite, MongoDB, Redis
 -  Automation & tooling: Bash scripting, Git, Postman
 -  Currently learning cloud platforms, system design, and backend scalability
--  Contact: anishprabhu783@gmail.com
+-  Contact: anishprabhu221@gmail.com
 
 ---
 ###  Tech Stack
